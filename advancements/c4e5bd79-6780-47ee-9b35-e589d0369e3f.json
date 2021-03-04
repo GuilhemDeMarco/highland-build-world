@@ -1,9 +1,1468 @@
 {
+  "nookbuild:recipes/crafting/yellow_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/light_gray_table_lamp": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:44:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_coffee_table": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "extradoors:story/get_all_doors": {
+    "criteria": {
+      "spruce_door": "2021-03-04 08:05:30 +0100",
+      "dark_oak_door": "2021-03-04 07:24:06 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-03-04 08:42:10 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "extradoors:recipes/redstone/dark_oak_glass_door": {
+    "criteria": {
+      "has_dark_oak_door": "2021-03-04 07:24:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/light_gray_concrete_slab": {
+    "criteria": {
+      "has_light_gray_concrete": "2021-03-04 08:26:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-03-04 07:46:41 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_step": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_table": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/picket_fence": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/black_concrete_slab": {
+    "criteria": {
+      "has_black_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:sofa": {
+    "criteria": {
+      "has_sofa": "2021-03-04 08:14:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:chimney": {
+    "criteria": {
+      "has_chimney": "2021-03-04 08:10:48 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/white_concrete_wall": {
+    "criteria": {
+      "has_white_concrete": "2021-03-04 08:25:56 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_post": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/yellow_table_lamp": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:44:47 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/red_table_lamp": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:44:35 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-03-04 07:25:18 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-03-04 08:28:08 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/crate": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/white_concrete_stairs": {
+    "criteria": {
+      "has_white_concrete": "2021-03-04 08:25:56 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/brick_chimney_from_block": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_drawer": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/brick_step": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:10:58 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_kitchen_cupboard": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:chair": {
+    "criteria": {
+      "has_chair": "2021-03-04 08:43:36 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_spruce_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/brown_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "extradoors:recipes/redstone/spruce_glass_door": {
+    "criteria": {
+      "has_spruce_door": "2021-03-04 08:05:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2021-03-04 08:24:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/stone_brick_post": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:32:21 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-03-04 08:28:45 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/black_concrete_wall": {
+    "criteria": {
+      "has_black_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-03-04 07:25:18 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_table": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/light_gray_concrete_stairs": {
+    "criteria": {
+      "has_light_gray_concrete": "2021-03-04 08:26:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_chair": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-04 08:17:40 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_sink": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_counter": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_kitchen_cupboard": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_platform": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-03-04 08:24:52 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_gray_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_post": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/gray_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/pink_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/green_concrete_slab": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2021-03-04 06:19:23 +0100"
     },
     "done": false
+  },
+  "adorn:recipes/spruce_shelf": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_coffee_table": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/light_gray_concrete_wall": {
+    "criteria": {
+      "has_light_gray_concrete": "2021-03-04 08:26:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/blue_concrete_button": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-03-04 08:42:04 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/lime_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/purple_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_brick_slab": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2021-03-04 08:42:07 +0100"
+    },
+    "done": true
+  },
+  "extradoors:story/get_all_trapdoors": {
+    "criteria": {
+      "spruce_trapdoor": "2021-03-04 08:03:55 +0100"
+    },
+    "done": false
+  },
+  "nookbuild:recipes/crafting/green_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/cyan_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/white_concrete_stairs": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/brick_platform": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:10:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-04 07:25:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_concrete_pressure_plate": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/dark_oak_platform": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 07:42:38 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/white_concrete_slab": {
+    "criteria": {
+      "has_white_concrete": "2021-03-04 08:25:56 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-03-04 08:28:07 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/light_blue_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2021-03-04 08:28:08 +0100"
+    },
+    "done": true
+  },
+  "extradoors:recipes/redstone/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_spruce_trapdoor": "2021-03-04 08:03:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/black_brick_wall": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2021-03-04 07:25:44 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/stonecutting/black_concrete_stairs": {
+    "criteria": {
+      "has_black_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
+  },
+  "adorn:recipes/spruce_step": {
+    "criteria": {
+      "has_key_item_0": "2021-03-04 08:20:28 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/yellow_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/magenta_brick_stairs": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/red_bricks": {
+    "criteria": {
+      "has_bricks": "2021-03-04 08:10:55 +0100"
+    },
+    "done": true
+  },
+  "nookbuild:recipes/crafting/orange_concrete_wall": {
+    "criteria": {
+      "has_concrete": "2021-03-04 08:25:05 +0100"
+    },
+    "done": true
   },
   "DataVersion": 2586
 }
